@@ -1,4 +1,4 @@
-package simpleFactory;
+package factory.first;
 
 public class PieChart implements Chart {
 

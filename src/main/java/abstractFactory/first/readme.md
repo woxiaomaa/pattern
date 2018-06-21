@@ -1,0 +1,2 @@
+button、textfield、combobox是summerSkin和springSkin的共同属性，在设计工厂类时，只需要summerSkinFactorry、springSkinFactory就能创建出button、textfield、combobox
+而普通工厂类要创建summerSkin的button、textfield、combobox工厂类和springSkin的button、textfield、combobox工厂类

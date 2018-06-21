@@ -1,4 +1,4 @@
-package simpleFactory;
+package simpleFactory.first;
 
 public class SipmleFactoryTest {
 	
